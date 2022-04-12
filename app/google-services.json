@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "294745320688",
+    "firebase_url": "https://demo1-d2261-default-rtdb.firebaseio.com",
+    "project_id": "demo1-d2261",
+    "storage_bucket": "demo1-d2261.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294745320688:android:7a6e891b032fd7b3d62635",
+        "android_client_info": {
+          "package_name": "com.cursosandroidant.snapshots"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294745320688-cj81bdau16l71fralinr6n4pt09t1vko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJCI3DMAUulOQNF9O1c6CCHca1WhV0jI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294745320688-cj81bdau16l71fralinr6n4pt09t1vko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
